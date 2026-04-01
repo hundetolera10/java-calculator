@@ -13,20 +13,13 @@ It supports basic arithmetic operations (+, -, *, /) and handles decimal numbers
 ![Calculator Scr](screenshot<img width="582" height="741" alt="Screenshot 2026-04-01 002421" src="https://github.com/user-attachments/assets/28f6ada7-7eb3-4337-9efa-61ad4a23cc3d" />
 .png)  <!-- Add your screenshot here -->
 
-## How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/hundetolera10/java-calculator.git
-2. Open the project in your favorite IDE (IntelliJ IDEA, Eclipse, etc.)
-3. Compile and run Main.java
-Tech Stack
+
+## Tech Stack
 Java
 Swing (for GUI)
-Future Improvements
-Add keyboard input support
-Add percentage and square root functions
-Enhance UI with better styling
-Author
+
+
+## Author
 
 Hunde Tolera
 Passionate backend developer building projects in Java & Python
