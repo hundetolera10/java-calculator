@@ -10,8 +10,8 @@ It supports basic arithmetic operations (+, -, *, /) and handles decimal numbers
 - Prevents multiple decimal points in a single number
 
 ## Screenshots
-![Calculator Scr](screenshot<img width="582" height="741" alt="Screenshot 2026-04-01 002421" src="https://github.com/user-attachments/assets/28f6ada7-7eb3-4337-9efa-61ad4a23cc3d" />
-.png)  <!-- Add your screenshot here -->
+(screenshot<img width="582" height="741" alt="Screenshot 2026-04-01 002421" src="https://github.com/user-attachments/assets/28f6ada7-7eb3-4337-9efa-61ad4a23cc3d" />
+  <!-- Add your screenshot here -->
 
 
 ## Tech Stack
